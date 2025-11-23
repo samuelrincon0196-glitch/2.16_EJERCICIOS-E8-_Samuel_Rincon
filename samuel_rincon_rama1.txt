@@ -1,1 +1,2 @@
 linea 1 
+Línea en master antes de la fusión
