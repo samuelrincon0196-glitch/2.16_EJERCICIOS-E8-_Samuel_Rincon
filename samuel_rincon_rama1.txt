@@ -1,2 +1,4 @@
-linea 1 
-Línea en master antes de la fusión
+linea 1
+Línea en master antes de la fusion
+Línea adicional 1 en rama
+Línea adicional 2 en rama
